@@ -2,7 +2,7 @@
 title: Wudup
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Hayan's CM3 website.
 
 ## A smaller level Heading
 
