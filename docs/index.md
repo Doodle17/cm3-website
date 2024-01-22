@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Wudup
 ---
 
 This is the home page of Rahul's CM3 website.
@@ -15,6 +15,8 @@ This is another para.
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
 - another item
+- treejo item
+- Chothu item
 
 In this new para we create a numbered list using numbers.
 1. first item
